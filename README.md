@@ -11,7 +11,7 @@ class sneeppy:
         self.telegram = '@sneeppy'
         self.code = {
             'languages': ['Python', 'SQL', 'C++'],
-            'database': ['PostgreSQL', 'MySQL', 'QDrant'],
+            'database': ['PostgreSQL', 'MySQL', 'Qdrant'],
             'devops': ['Docker', 'Linux', 'GitHub Actions'],
             'tools': ['Pandas', 'NumPy', 'PyTorch', 'TensorFlow', 'LangChain', 'LangGraph', 'XGBoost'], #...
         }
