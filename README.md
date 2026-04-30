@@ -13,7 +13,7 @@ class sneeppy:
             'languages': ['Python', 'SQL', 'C++'],
             'database': ['PostgreSQL', 'MySQL', 'Qdrant'],
             'devops': ['Docker', 'Linux', 'GitHub Actions'],
-            'tools': ['Pandas', 'NumPy', 'PyTorch', 'TensorFlow', 'LangChain', 'LangGraph', 'XGBoost'], #...
+            'tools': ['LlamaIndex', 'LangChain', 'LangGraph', 'CrewAI'], #...
         }
 
     def __str__(self):
